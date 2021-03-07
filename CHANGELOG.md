@@ -1,5 +1,11 @@
 # Changelog
 
+## modify
+- Android: Android 10 Does not access Device ID,imei, icciID
+https://github.com/pbakondy/cordova-plugin-sim/pull/92
+
+
+
 ## v1.3.3
 
 - Android: Adjust required API levels
